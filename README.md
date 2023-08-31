@@ -1,4 +1,4 @@
-#BrunaWüst :rocket:
+## BrunaWüst :rocket:
 
 Olá! :wave:
 Me chamo Bruna Wüst, tenho 23 anos e moro em Sorriso, MT. Sou graduada em Engenharia Agronômica pela IFMT e também sou técnica em agropecuária pela mesma instituição.
