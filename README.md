@@ -13,7 +13,8 @@ Sou entusiasta por tecnologias inovadoras, agricultura de precisão, música e g
 
 <div>
 <a href = "brunawustagro@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/bruna-gabriele-wust/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/bruna-gabriele-wust/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  
 </div>
 
 ## Ferramentas e Tecnologias 
@@ -27,3 +28,9 @@ Sou entusiasta por tecnologias inovadoras, agricultura de precisão, música e g
 
 
 ## Minhas estatísticas 
+
+
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
