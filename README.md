@@ -19,5 +19,8 @@ Sou entusiasta por tecnologias inovadoras, agricultura de precisão, música e g
 
 Você pode entrar em contato comigo:
 
-- E-mail: brunawustagro@gmail.com
-- LinkedIn: https://www.linkedin.com/in/bruna-gabriele-wust/
+<div>
+<a href = "brunawustagro@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/bruna-gabriele-wust/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
