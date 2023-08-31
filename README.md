@@ -24,10 +24,10 @@ Sou entusiasta por tecnologias inovadoras, agricultura de precisão, música e g
 
 
 ## Minhas contribuições
-![Snake animation](https://github.com/BrunaWust/bruna.wust/blob/main/.github/workflows/main.yml)
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BrunaWust/BrunaWust/output/github-contribution-grid-snake.svg" />
 
 
-## Minhas estatísticas 
+## Minhas estatísticas ⚡
 
 
 
