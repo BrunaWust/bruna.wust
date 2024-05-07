@@ -14,7 +14,7 @@
  
  🌱 Estou aprendendo **Flutter, Django**
 
-💬 Pergunte-me sobre **Python, Power BI, Linguagem DAX, Gestão de Projetos... ou qualquer coisa [aqui] [here](https://github.com/salesp07/salesp07/issues)**
+💬 Pergunte-me sobre **Python, Power BI, Linguagem DAX, Gestão de Projetos... ou qualquer coisa.**
 
 ⚡ Fato curioso: Antes de decidir pelo título "Harry Potter e a Pedra Filosofal", J.K. Rowling considerou intitular o primeiro livro como **"Harry Potter e a Escola de Magia".**
 
