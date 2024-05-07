@@ -34,7 +34,8 @@
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,sqlserver,vscode,spyder,figma,css,powerbi,r,github" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,vscode,figma,css,r,github" />
+    <img src="https://skillicons.dev/icons?i=blender,discord,flutter,anaconda" />
 </div>
 
 <br/>
