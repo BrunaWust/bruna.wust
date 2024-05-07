@@ -68,7 +68,9 @@
 <br/>
 
 <div align="center">
-<a href=[(https://www.linkedin.com/in/bruna-gabriele-wust/]' target='_blank'><img height='64' style='border:0px;height:64px;border-color:#ff69b4;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <a href='https://www.linkedin.com/in/bruna-gabriele-wust/' target='_blank'>
+        <img height='64' style='border:0px;height:64px;border-color:#ff69b4;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    </a>
 </div>
 
 <br/>
