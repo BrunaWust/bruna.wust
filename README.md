@@ -37,7 +37,6 @@
     <img src="https://skillicons.dev/icons?i=python,sqlserver,vscode,spyder,figma,css,powerbi,r,github" />
 </div>
 
-
 <br/>
 <hr/>
 
@@ -49,8 +48,6 @@
   
   <br/><br/><br/>
 </div>
--->
-
 <hr/>
 
 <h2 align="center">⚡ Estatísticas ⚡</h2>
@@ -63,6 +60,7 @@
 </div>
 
 <br/><br/>
+-->
 
 <hr/>
 
