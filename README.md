@@ -34,13 +34,14 @@
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=css,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,sqlserver,vscode,spyder,figma,css,powerbi,r,github" />
 </div>
+
 
 <br/>
 <hr/>
 
+<!--
 <div align="center">
   <h2>🐍 Minhas contribuições🐍</h2>
   <br>
@@ -48,10 +49,11 @@
   
   <br/><br/><br/>
 </div>
+-->
 
 <hr/>
 
-<h2 align="center">⚡ Estastíticas ⚡</h2>
+<h2 align="center">⚡ Estatísticas ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -67,7 +69,8 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;border-color:#ff69b4;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
+
