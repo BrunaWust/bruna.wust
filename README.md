@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔭 Atualmente estou trabalhando em uma empresa agrícola **Agro Baggio - John Deere**
+ 🔭 Atualmente estou trabalhando em uma empresa agrícola **Agro Baggio Máquinas Agrícolas - Concessionária John Deere**
  
- 🌱 Estou aprendendo **Flutter, Django**
+ 🌱 Estou aprendendo **Flutter e Django**
 
 💬 Pergunte-me sobre **Python, Power BI, Linguagem DAX, Gestão de Projetos... ou qualquer coisa.**
 
