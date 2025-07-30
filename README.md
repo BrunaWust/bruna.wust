@@ -27,7 +27,7 @@
 <h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,excel,vscode,figma,r,github" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,vscode,figma,r,github" />
   <img src="https://skillicons.dev/icons?i=flutter,anaconda,tensorflow,tableau" />
 </div>
 
