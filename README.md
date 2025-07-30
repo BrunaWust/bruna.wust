@@ -14,11 +14,11 @@
  
  🔭 Atualmente trabalho na **Agro Baggio Máquinas Agrícolas - Concessionária John Deere**
 
- 🌱 Estudando Machine Learning para aplicações em análise de dados, predição de cenários e otimização de processos
+ 🌱 Estudando **Machine Learning** para aplicações em análise de dados, predição de cenários e otimização de processos
 
  💬 Me pergunte sobre **Python, Power BI, DAX, gestão de projetos ou integração de sistemas**
 
- 🐙 O mascote do GitHub, o "Octocat", é uma mistura de polvo com gato, e foi criado originalmente como uma piada de design em 2008.
+ 🐙 O mascote do GitHub, o **Octocat**, é uma mistura de polvo com gato, e foi criado originalmente como uma piada de design em 2008.
 
 </div>
 
