@@ -27,8 +27,9 @@
 <h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,oracle,excel,vscode,figma,r,github" />
-    <img src="https://skillicons.dev/icons?i=anaconda,tensorflow,tableau" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,vscode,figma,css,r,github" />
+    <img src="https://skillicons.dev/icons?i=blender,discord,anaconda" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" height="40px" />
 </div>
 
 
