@@ -49,7 +49,7 @@
 <h2 align="center">📫 Contato</h2>
 
 <div align="center"> 
-  <a href="mailto:bruna.wust@agrobaggio.com.br">
+  <a href="bruna.wust@agrobaggio.com.br">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/bruna-gabriele-wust/" target="_blank">
