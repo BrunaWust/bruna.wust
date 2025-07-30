@@ -14,16 +14,15 @@
  
  🔭 Atualmente trabalho na **Agro Baggio Máquinas Agrícolas - Concessionária John Deere**
 
- 🌱 Estudando **Flutter** para apps mobile e **Django** para aplicações web
+ 🌱 Estudando Machine Learning para aplicações em análise de dados, predição de cenários e otimização de processos
 
  💬 Me pergunte sobre **Python, Power BI, DAX, gestão de projetos ou integração de sistemas**
 
- ⚡ Fato curioso: J.K. Rowling quase chamou o primeiro livro de Harry Potter de **"Harry Potter e a Escola de Magia"**
+ 🐙 O mascote do GitHub, o "Octocat", é uma mistura de polvo com gato, e foi criado originalmente como uma piada de design em 2008.
 
 </div>
 
 <br/>
-<hr style="border: 1px dashed #ff69b4"/>
 
 <h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 <br/>
@@ -33,17 +32,14 @@
 </div>
 
 <br/>
-<hr style="border: 1px dashed #ff69b4"/>
 
 <h2 align="center">🛠️ Projetos em Destaque</h2>
 
-- 🌾 [**Geoanalytics Agrícola**](https://github.com/bruna-wust/geoanalytics-agricola) – Scripts em Python para processar shapefiles, interpolar dados de solo e gerar mapas de aplicação variável
-- 📊 [**Painel API Expert Connect**](https://github.com/bruna-wust/dash-api-monitor) – Dashboard com auto-refresh e alertas para consumo de APIs com Flask + Dash
-- 📱 [**App de Monitoramento Agrícola**](https://github.com/bruna-wust/flutter-agro-app) – App Flutter integrado com backend Django para registro de ocorrências no campo
-- 🔄 [**Automatização de Relatórios via WhatsApp**](https://github.com/bruna-wust/envio-whatsapp-pdf) – Sistema de envio automático de PDFs com Wassenger API
+- 🌾 [**Geoanalytics Agrícola**] – Scripts em Python para processar shapefiles, interpolar dados de solo e gerar mapas de aplicação variável  
+- 📊 [**Painel API Expert Connect**] – Dashboard com auto-refresh e alertas para consumo de APIs com Flask + Dash  
+- 🔄 [**Automatização de Relatórios via WhatsApp**] – Sistema de envio automático de PDFs com Wassenger API
 
 <br/>
-<hr style="border: 1px dashed #ff69b4"/>
 
 <h2 align="center">📫 Contato</h2>
 
@@ -54,10 +50,6 @@
   <a href="https://www.linkedin.com/in/bruna-gabriele-wust/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://ko-fi.com/seuusuario" target="_blank">
-    <img height="32" src="https://storage.ko-fi.com/cdn/kofi5.png?v=3" alt="Buy Me a Coffee at ko-fi.com" />
-  </a>
 </div>
 
 <br/>
-<hr style="border: 1px dashed #ff69b4"/>
