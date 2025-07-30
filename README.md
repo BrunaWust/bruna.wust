@@ -61,22 +61,3 @@
 
 <br/>
 <hr style="border: 1px dashed #ff69b4"/>
-
-<h2 align="center">📈 Estatísticas</h2>
-<br/>
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=bruna-wust&theme=react&border_radius=10" alt="Streak Stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=bruna-wust&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-wust&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Langs" />
-</div>
-
-<br/>
-<hr style="border: 1px dashed #ff69b4"/>
-
-<h2 align="center">🐍 Contribuições Recentes</h2>
-<br/>
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bruna-wust/bruna-wust/output/github-contribution-grid-snake.svg" />
-</div>
-
