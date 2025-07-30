@@ -1,38 +1,31 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bruna.wust.bruna.wust" />
+<!-- README.md do perfil de Bruna Wust - Desenvolvedora de Software Agrícola -->
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bruna.wust" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=%23ff69b4&lines=Hi+There!+👋;+I'm+Bruna+Wust!;" />
 </h1>
 
-<h3 align="center">Uma desenvolvedora de software na área agrícola apaixonada do Brasil 🇧🇷</h3>
+<h3 align="center">Desenvolvedora de software na área agrícola, apaixonada por dados e tecnologia 🇧🇷</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 Atualmente estou trabalhando em uma empresa agrícola **Agro Baggio Máquinas Agrícolas - Concessionária John Deere**
- 
- 🌱 Estou aprendendo **Flutter e Django**
+ 🔭 Atualmente trabalho na **Agro Baggio Máquinas Agrícolas - Concessionária John Deere**
 
-💬 Pergunte-me sobre **Python, Power BI, Linguagem DAX, Gestão de Projetos... ou qualquer coisa.**
+ 🌱 Estudando **Flutter** para apps mobile e **Django** para aplicações web
 
-⚡ Fato curioso: Antes de decidir pelo título "Harry Potter e a Pedra Filosofal", J.K. Rowling considerou intitular o primeiro livro como **"Harry Potter e a Escola de Magia".**
+ 💬 Me pergunte sobre **Python, Power BI, DAX, gestão de projetos ou integração de sistemas**
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:bruna.wust@agrobaggio.com.br">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a href="[htps://www.linkedin.com/in/bruna-gabriele-wust/]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+ ⚡ Fato curioso: J.K. Rowling quase chamou o primeiro livro de Harry Potter de **"Harry Potter e a Escola de Magia"**
+
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<br/>
+<hr style="border: 1px dashed #ff69b4"/>
+
+<h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,mysql,vscode,figma,css,r,github" />
@@ -40,40 +33,50 @@
 </div>
 
 <br/>
-<hr/>
+<hr style="border: 1px dashed #ff69b4"/>
 
-<!--
-<div align="center">
-  <h2>🐍 Minhas contribuições🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+<h2 align="center">🛠️ Projetos em Destaque</h2>
+
+- 🌾 [**Geoanalytics Agrícola**](https://github.com/bruna-wust/geoanalytics-agricola) – Scripts em Python para processar shapefiles, interpolar dados de solo e gerar mapas de aplicação variável
+- 📊 [**Painel API Expert Connect**](https://github.com/bruna-wust/dash-api-monitor) – Dashboard com auto-refresh e alertas para consumo de APIs com Flask + Dash
+- 📱 [**App de Monitoramento Agrícola**](https://github.com/bruna-wust/flutter-agro-app) – App Flutter integrado com backend Django para registro de ocorrências no campo
+- 🔄 [**Automatização de Relatórios via WhatsApp**](https://github.com/bruna-wust/envio-whatsapp-pdf) – Sistema de envio automático de PDFs com Wassenger API
+
+<br/>
+<hr style="border: 1px dashed #ff69b4"/>
+
+<h2 align="center">📫 Contato</h2>
+
+<div align="center"> 
+  <a href="mailto:bruna.wust@agrobaggio.com.br">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bruna-gabriele-wust/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ko-fi.com/seuusuario" target="_blank">
+    <img height="32" src="https://storage.ko-fi.com/cdn/kofi5.png?v=3" alt="Buy Me a Coffee at ko-fi.com" />
+  </a>
 </div>
-<hr/>
 
-<h2 align="center">⚡ Estatísticas ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<br/>
+<hr style="border: 1px dashed #ff69b4"/>
+
+<h2 align="center">📈 Estatísticas</h2>
+<br/>
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=bruna-wust&theme=react&border_radius=10" alt="Streak Stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=bruna-wust&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-wust&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Langs" />
 </div>
 
-<br/><br/>
--->
-
-<hr/>
-
 <br/>
+<hr style="border: 1px dashed #ff69b4"/>
 
+<h2 align="center">🐍 Contribuições Recentes</h2>
+<br/>
 <div align="center">
-    <a href='https://www.linkedin.com/in/bruna-gabriele-wust/' target='_blank'>
-        <img height='64' style='border:0px;height:64px;border-color:#ff69b4;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-    </a>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bruna-wust/bruna-wust/output/github-contribution-grid-snake.svg" />
 </div>
-
-<br/>
-
 
