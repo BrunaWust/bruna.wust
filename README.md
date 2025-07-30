@@ -27,9 +27,12 @@
 <h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,vscode,figma,css,r,github" />
-    <img src="https://skillicons.dev/icons?i=blender,discord,flutter,anaconda" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,oracle,vscode,figma,css,r,github" />
+    <img src="https://skillicons.dev/icons?i=blender,discord,anaconda,tensorflow" />
+    <br/>
+    <span style="font-size: 18px;">🤖 Machine Learning • 📊 BI • 🌾 AgTech</span>
 </div>
+
 
 <br/>
 
