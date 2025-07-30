@@ -29,7 +29,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,mysql,vscode,figma,css,r,github" />
     <img src="https://skillicons.dev/icons?i=blender,discord,anaconda" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" height="40px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/[OpenAI_Logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXuDvlNDmDGF5QwPETEs3eh7RHNGmKBpgwyw&s)" height="40px" />
 </div>
 
 
