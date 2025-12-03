@@ -28,7 +28,7 @@
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,vscode,figma,r,github" />
-  <img src="https://skillicons.dev/icons?i=flutter,anaconda,tensorflow,tableau" />
+  <img src="https://skillicons.dev/icons?i=flutter,anaconda," />
 </div>
 
 
