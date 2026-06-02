@@ -87,8 +87,7 @@ Dashboard com **auto-refresh e alertas** para monitoramento de consumo de APIs �
 ---
 
 ### 📲 Automatização de Relatórios via WhatsApp
-Sistema que gera e envia automaticamente relatórios em PDF para produtores e equipes via **Wassenger API**. Eliminou processos manuais de distribuição de dados operacionais.
-
+Sistema que gera e envia automaticamente relatórios em PDF para produtores. 
 `Python` `Wassenger API` `PDFKit` `Automação`
 
 ---
@@ -97,9 +96,8 @@ Sistema que gera e envia automaticamente relatórios em PDF para produtores e eq
 
 ```
 Machine Learning aplicado ao agro
-  ├── Predição de produtividade por talhão
-  ├── Modelos de séries temporais para safra
-  └── Otimização de insumos com dados históricos
+  ├── Predição de riscos climáticos
+  ├── Modelos de séries temporais para fragmentação de florestas
 ```
 
 ---
