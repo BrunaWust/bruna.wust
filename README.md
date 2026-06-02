@@ -1,38 +1,65 @@
-<!-- README.md do perfil de Bruna Wust - Desenvolvedora de Software Agrícola -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bruna.wust" />
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=%23ff69b4&lines=Hi+There!+👋;+I'm+Bruna+Wust!;" />
-</h1>
-<h3 align="center">Desenvolvedora de software na área agrícola, apaixonada por dados e tecnologia 🇧🇷</h3>
-<br/>
 <div align="center">
 
- 🔭 Atualmente trabalho na **Agro Baggio Máquinas Agrícolas - Concessionária John Deere**
- 🌱 Estudando **Machine Learning** para aplicações em análise de dados, predição de cenários e otimização de processos
- 💬 Me pergunte sobre **Python, Power BI, DAX, gestão de projetos ou integração de sistemas**
- 🐙 O mascote do GitHub, o **Octocat**, é uma mistura de polvo com gato, e foi criado originalmente como uma piada de design em 2008.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a3d1f,1a5c2e,2d8a4e&height=200&section=header&text=Bruna%20Wust&fontSize=55&fontColor=c8f7d4&fontAlignY=38&desc=Software%20Developer%20%7C%20Agro%20Tech&descAlignY=58&descSize=18&descColor=7ec99a" />
+
 </div>
+
 <br/>
-<h2 align="center">🚀 Tecnologias e Ferramentas</h2>
-<br/>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,vscode,figma,r,github" />
-  <img src="https://skillicons.dev/icons?i=flutter,anaconda," />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=20&pause=1200&color=4CAF82&center=true&vCenter=true&width=550&lines=Desenvolvedora+de+Software+Agr%C3%ADcola+%F0%9F�%BE;Transformando+dados+do+campo+em+decis%C3%B5es;Python+%7C+Power+BI+%7C+Machine+Learning;Lucas+do+Rio+Verde%2C+MT+%E2%80%94+Brasil" alt="Typing SVG" />
 </div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-bruna--gabriele--wust-0e6b38?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-gabriele-wust/)
+[![Email](https://img.shields.io/badge/-bruna.wust@agrobaggio.com.br-1a5c2e?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:bruna.wust@agrobaggio.com.br)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bruna.wust&style=flat-square&color=2d8a4e)](https://github.com/bruna-wust)
+
 </div>
-<br/>
-<h2 align="center">🛠️ Projetos em Destaque</h2>
-- 🌾 [**Geoanalytics Agrícola**] – Scripts em Python para processar shapefiles, interpolar dados de solo e gerar mapas de aplicação variável  
-- 📊 [**Painel API Expert Connect**] – Dashboard com auto-refresh e alertas para consumo de APIs com Flask + Dash  
-- 🔄 [**Automatização de Relatórios via WhatsApp**] – Sistema de envio automático de PDFs com Wassenger API
-<br/>
-<h2 align="center">📫 Contato</h2>
-<div align="center"> 
-  <a href="bruna.wust@agrobaggio.com.br">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/bruna-gabriele-wust/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+---
+
+## 🌱 Sobre mim
+
+Sou desenvolvedora de software na **Agro Baggio Máquinas Agrícolas**, concessionária John Deere localizada em Lucas do Rio Verde — no coração do agronegócio brasileiro.
+
+Minha trajetória é marcada por uma interseção pouco comum: **tecnologia aplicada diretamente ao campo**. Trabalho na ponte entre o que acontece na lavoura e o que pode ser medido, analisado e otimizado com dados. Não é só código — é entender o ciclo da safra, as dores do produtor, o que um mapa de solo precisa dizer.
+
+Hoje meu foco está em **Machine Learning** para predição de cenários e otimização de processos agrícolas. Acredito que a agricultura de precisão ainda tem muito espaço para evoluir com software bem feito.
+
+---
+
+## 🛠️ Stack principal
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-1e4d2b?style=for-the-badge&logo=python&logoColor=c8f7d4)
+![Power BI](https://img.shields.io/badge/Power%20BI-1e4d2b?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![MySQL](https://img.shields.io/badge/MySQL-1e4d2b?style=for-the-badge&logo=mysql&logoColor=c8f7d4)
+![Flask](https://img.shields.io/badge/Flask-1e4d2b?style=for-the-badge&logo=flask&logoColor=c8f7d4)
+![R](https://img.shields.io/badge/R-1e4d2b?style=for-the-badge&logo=r&logoColor=c8f7d4)
+![Flutter](https://img.shields.io/badge/Flutter-1e4d2b?style=for-the-badge&logo=flutter&logoColor=54C5F8)
+![Figma](https://img.shields.io/badge/Figma-1e4d2b?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Anaconda](https://img.shields.io/badge/Anaconda-1e4d2b?style=for-the-badge&logo=anaconda&logoColor=44A833)
+
 </div>
-<br/>
+
+## 📈 Atualmente aprendendo
+
+```
+Machine Learning aplicado ao agro
+  ├── Predição de produtividade por talhão
+  ├── Modelos de séries temporais para safra
+  └── Otimização de insumos com dados históricos
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a3d1f,1a5c2e,2d8a4e&height=100&section=footer&fontColor=c8f7d4" />
+
+</div>
