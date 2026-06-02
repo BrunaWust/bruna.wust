@@ -103,7 +103,10 @@ Machine Learning aplicado ao agro
 ---
 
 <div align="center">
-
+✨ Obrigada pela visita!
+Se você chegou até aqui, significa que nos conectamos de alguma forma — seja pelo agro, pelos dados ou pela tecnologia. Fique à vontade para explorar meus repositórios, trocar uma ideia ou só dizer oi. 🌸
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=16&pause=2000&color=ff69b4&center=true&vCenter=true&width=500&lines=Vamos+construir+algo+juntos%3F+%F0%9F%9A%80;Conecte-se+comigo+no+LinkedIn!;Bora+transformar+dados+em+impacto+real." alt="Obrigada" />
+<br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a0010,3d0020,6b0035&height=100&section=footer" />
-
 </div>
